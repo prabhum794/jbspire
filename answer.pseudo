@@ -1,4 +1,2 @@
-import random  #import random library
-def printname(name): #function
-	print name+" "+str(random.randint(6,15))
-
+#This is the Jobspire Answer Sudo file
+#The next file has the code with the comments
